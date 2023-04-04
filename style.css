@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    column-gap: 20px;
+    
+   
+}
+.aga{
+    width: 250px;
+    height: 150px;
+    position: relative;
+    border: 2px solid red;
+    border-radius: 10px;
+
+}
+
+.aga p{
+    padding-left: 2px;
+    padding-right: 5px;
+    width: 130px;
+    background-color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    top: 0;
+    left: 55px;
+    font-size: 15px;
+    
+}
+.aga img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+   
+}
+.aga button{
+    position: absolute;
+    bottom: 10px;
+    right: 100px;
+    padding: 5px 10px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+
+}
+
+.aga1{
+    width: 250px;
+    height: 150px;
+    position: relative;
+    border: 2px solid red;
+    border-radius: 10px;
+
+}
+
+.aga1 p{
+    padding-left: 2px;
+    padding-right: 5px;
+    width: 130px;
+    background-color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    top: 0;
+    left: 55px;
+    font-size: 15px;
+    
+}
+.aga1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+   
+}
+.aga1 button{
+    position: absolute;
+    bottom: 10px;
+    right: 100px;
+    padding: 5px 10px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+
+}
+.aga2{
+    width: 250px;
+    height: 150px;
+    position: relative;
+    border: 2px solid red;
+    border-radius: 10px;
+
+}
+
+.aga2 p{
+    padding-left: 2px;
+    padding-right: 5px;
+    width: 130px;
+    background-color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    top: 0;
+    left: 55px;
+    font-size: 15px;
+    
+}
+.aga2 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+   
+}
+.aga2 button{
+    position: absolute;
+    bottom: 10px;
+    right: 100px;
+    padding: 5px 10px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+
+}
+
+.aga3{
+    width: 250px;
+    height: 150px;
+    position: relative;
+    border: 2px solid red;
+    border-radius: 10px;
+
+}
+
+.aga3 p{
+    padding-left: 2px;
+    padding-right: 5px;
+    width: 130px;
+    background-color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    top: 0;
+    left: 55px;
+    font-size: 15px;
+    
+}
+.aga3 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+   
+}
+.aga3 button{
+    position: absolute;
+    bottom: 10px;
+    right: 100px;
+    padding: 5px 10px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+
+}
+.knk{
+    display: flex;
+    column-gap: 20px;
+}
+button{
+    transition: .25s ease-in all;
+}
+button:hover{
+    background-color: black;
+    color: white;
+  
+}
